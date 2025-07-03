@@ -19,7 +19,7 @@ This project fetches user data from a public API and displays it in a styled car
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 - [JSONPlaceholder API](https://jsonplaceholder.typicode.com/users)
 
 ## Author
