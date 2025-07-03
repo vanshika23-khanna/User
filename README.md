@@ -11,7 +11,7 @@ This project fetches user data from a public API and displays it in a styled car
 - Loading message while fetching data
 - Graceful error handling for network issues
 
-  **Live Demo:**
+  ##Live Demo:
    [https://vanshika23-khanna.github.io/User/](https://vanshika23-khanna.github.io/User/)
 
 ## Technologies Used
